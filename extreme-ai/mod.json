@@ -1,0 +1,18 @@
+{
+	"name" : "Extreme AI",
+	"description" : "Overwhelming AI settings, that give huge starting resources boost on every difficulty and increasing amount of cheats on 2nd and later difficulty. Probably not something you want to enable if playing VCMI for first time.",
+	"version" : "1.0",
+	"author" : "Dydzio",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+	"contact" : "Dydzio on VCMI related places, dydzio on Discord",
+	"modType" : "AI",
+	"compatibility" :
+	{
+		"min" : "1.4.0"
+	},
+	"conflicts" :
+	[
+		"boost-ai"
+	]
+}
