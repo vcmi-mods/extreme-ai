@@ -14,5 +14,9 @@
 	"conflicts" :
 	[
 		"boost-ai"
-	]
+	],
+	"czech" : {
+		"name" : "Extrémní AI",
+		"description" : "Nastavení umělé inteligence, které poskytuje obrovské počáteční zdroje na každou obtížnost a zvyšuje množství podvádění na druhé a vyšší obtížnosti. Pravděpodobně ne něco, co byste chtěli zapnout při prvním hraní VCMI."
+	}
 }
