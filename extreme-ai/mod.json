@@ -1,7 +1,7 @@
 {
 	"name" : "Extreme AI",
 	"description" : "Overwhelming AI settings, that give huge starting resources boost on every difficulty and increasing amount of cheats on 2nd and later difficulty. Probably not something you want to enable if playing VCMI for first time.",
-	"version" : "1.0",
+	"version" : "1.0.1",
 	"author" : "Dydzio",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
@@ -14,5 +14,14 @@
 	"conflicts" :
 	[
 		"boost-ai"
-	]
+	],
+	"changelog" :
+	{
+		"1.0"    : [ "Initial release" ],
+		"1.0.1"  : [ "Czech translation by George King" ]
+	},
+	"czech" : {
+		"name" : "Extrémní AI",
+		"description" : "Nastavení umělé inteligence, které poskytuje obrovské počáteční zdroje na každou obtížnost a zvyšuje množství podvádění na druhé a vyšší obtížnosti. Pravděpodobně ne něco, co byste chtěli zapnout při prvním hraní VCMI."
+	}
 }
