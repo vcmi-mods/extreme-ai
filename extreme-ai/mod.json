@@ -23,5 +23,9 @@
 	"czech" : {
 		"name" : "Extrémní AI",
 		"description" : "Nastavení umělé inteligence, které poskytuje obrovské počáteční zdroje na každou obtížnost a zvyšuje množství podvádění na druhé a vyšší obtížnosti. Pravděpodobně ne něco, co byste chtěli zapnout při prvním hraní VCMI."
+	},
+        "polish" : {
+		"name" : "Ekstremalne AI",
+		"description" : "Przytłaczające ustawienia AI, które zapewniają ogromny wzrost zasobów początkowych na każdym poziomie trudności i rosnącą liczbę kodów na drugim i późniejszym poziomie trudności. Prawdopodobnie nie jest to coś, co chcesz włączyć, jeśli grasz w VCMI po raz pierwszy."
 	}
 }
