@@ -1,7 +1,7 @@
 {
 	"name" : "Extreme AI",
 	"description" : "Overwhelming AI settings, that give huge starting resources boost on every difficulty and increasing amount of cheats on 2nd and later difficulty. Probably not something you want to enable if playing VCMI for first time.",
-	"version" : "1.0.1",
+	"version" : "1.0.2",
 	"author" : "Dydzio",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
@@ -9,7 +9,7 @@
 	"modType" : "AI",
 	"compatibility" :
 	{
-		"min" : "1.4.0"
+		"min" : "1.6.0"
 	},
 	"conflicts" :
 	[
@@ -17,8 +17,9 @@
 	],
 	"changelog" :
 	{
-		"1.0"    : [ "Initial release" ],
-		"1.0.1"  : [ "Czech translation by George King" ]
+		"1.0.2"  : [ "Remove VCMI 1.6 AI nerfs from lower difficulty levels" ],
+		"1.0.1"  : [ "Czech translation by George King" ],
+		"1.0"    : [ "Initial release" ]
 	},
 	"czech" : {
 		"name" : "Extrémní AI",
@@ -26,6 +27,6 @@
 	},
         "polish" : {
 		"name" : "Ekstremalne AI",
-		"description" : "Przytłaczające ustawienia AI, które zapewniają ogromny wzrost zasobów początkowych na każdym poziomie trudności i rosnącą liczbę kodów na drugim i późniejszym poziomie trudności. Prawdopodobnie nie jest to coś, co chcesz włączyć, jeśli grasz w VCMI po raz pierwszy."
+		"description" : "Przytłaczające ustawienia AI, które zapewniają ogromny wzrost zasobów początkowych na każdym poziomie trudności i rosnącą liczbę oszustw na drugim i późniejszym poziomie trudności. Prawdopodobnie nie jest to coś, co chcesz włączyć, jeśli grasz w VCMI po raz pierwszy."
 	}
 }

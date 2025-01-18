@@ -1,0 +1,41 @@
+{
+	"pawn" : {
+		"maxRoamingHeroes" : 8,
+		"threatTurnDistanceLimit" : 5,
+		"retreatThresholdRelative" : 0.3,
+		"retreatThresholdAbsolute" : 10000,
+		"maxArmyLossTarget" : 0.25
+	},
+
+	"knight" : {
+		"maxRoamingHeroes" : 8,
+		"threatTurnDistanceLimit" : 5,
+		"retreatThresholdRelative" : 0.3,
+		"retreatThresholdAbsolute" : 10000,
+		"maxArmyLossTarget" : 0.25
+	},
+
+	"rook" : {
+		"maxRoamingHeroes" : 8,
+		"threatTurnDistanceLimit" : 5,
+		"retreatThresholdRelative" : 0.3,
+		"retreatThresholdAbsolute" : 10000,
+		"maxArmyLossTarget" : 0.25
+	},
+
+	"queen" : {
+		"maxRoamingHeroes" : 8,
+		"threatTurnDistanceLimit" : 5,
+		"retreatThresholdRelative" : 0.3,
+		"retreatThresholdAbsolute" : 10000,
+		"maxArmyLossTarget" : 0.25
+	},
+
+	"king" : {
+		"maxRoamingHeroes" : 8,
+		"threatTurnDistanceLimit" : 5,
+		"retreatThresholdRelative" : 0.3,
+		"retreatThresholdAbsolute" : 10000,
+		"maxArmyLossTarget" : 0.25
+	}
+}
