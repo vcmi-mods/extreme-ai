@@ -1,7 +1,7 @@
 {
 	"name" : "Extreme AI",
 	"description" : "Overwhelming AI settings, that give huge starting resources boost on every difficulty and increasing amount of cheats on 2nd and later difficulty. Probably not something you want to enable if playing VCMI for first time.",
-	"version" : "1.0.2",
+	"version" : "1.0.3",
 	"author" : "Dydzio",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
@@ -17,6 +17,7 @@
 	],
 	"changelog" :
 	{
+		"1.0.3"  : [ "Bigger spell cost boosts for fights against neutrals" ],
 		"1.0.2"  : [ "Remove VCMI 1.6 AI nerfs from lower difficulty levels" ],
 		"1.0.1"  : [ "Czech translation by George King" ],
 		"1.0"    : [ "Initial release" ]
