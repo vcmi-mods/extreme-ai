@@ -1,0 +1,81 @@
+{
+	"pawn" : {
+		"maxRoamingHeroes" : 8,
+		"maxRoamingHeroesPerTown" : 0,
+		"maxPass" : 40,
+		"maxPriorityPass" : 40,
+		"threatTurnDistanceLimit" : 5,
+		"openMap": true,
+		"pathfinderBucketsCount" : 1,
+		"pathfinderBucketSize" : 14,
+		"retreatThresholdRelative" : 0.3,
+		"retreatThresholdAbsolute" : 10000,
+		"safeAttackRatio" : 1.1,
+		"maxArmyLossTarget" : 0.35,
+		"useFuzzy" : false
+	},
+
+	"knight" : {
+		"maxRoamingHeroes" : 8,
+		"maxRoamingHeroesPerTown" : 0,
+		"maxPass" : 40,
+		"maxPriorityPass" : 40,
+		"threatTurnDistanceLimit" : 5,
+		"openMap": true,
+		"pathfinderBucketsCount" : 1,
+		"pathfinderBucketSize" : 14,
+		"retreatThresholdRelative" : 0.3,
+		"retreatThresholdAbsolute" : 10000,
+		"safeAttackRatio" : 1.1,
+		"maxArmyLossTarget" : 0.35,
+		"useFuzzy" : false
+	},
+
+	"rook" : {
+		"maxRoamingHeroes" : 8,
+		"maxRoamingHeroesPerTown" : 0,
+		"maxPass" : 40,
+		"maxPriorityPass" : 40,
+		"threatTurnDistanceLimit" : 5,
+		"openMap": true,
+		"pathfinderBucketsCount" : 1,
+		"pathfinderBucketSize" : 14,
+		"retreatThresholdRelative" : 0.3,
+		"retreatThresholdAbsolute" : 10000,
+		"safeAttackRatio" : 1.1,
+		"maxArmyLossTarget" : 0.35,
+		"useFuzzy" : false
+	},
+
+	"queen" : {
+		"maxRoamingHeroes" : 8,
+		"maxRoamingHeroesPerTown" : 0,
+		"maxPass" : 40,
+		"maxPriorityPass" : 40,
+		"threatTurnDistanceLimit" : 5,
+		"openMap": true,
+		"pathfinderBucketsCount" : 1,
+		"pathfinderBucketSize" : 14,
+		"retreatThresholdRelative" : 0.3,
+		"retreatThresholdAbsolute" : 10000,
+		"safeAttackRatio" : 1.1,
+		"maxArmyLossTarget" : 0.35,
+		"useFuzzy" : false
+	},
+
+	"king" : {
+		"maxRoamingHeroes" : 8,
+		"maxRoamingHeroesPerTown" : 0,
+		"maxPass" : 40,
+		"maxPriorityPass" : 40,
+		"threatTurnDistanceLimit" : 5,
+		"openMap": true,
+		"pathfinderBucketsCount" : 1,
+		"pathfinderBucketSize" : 14,
+		"retreatThresholdRelative" : 0.3,
+		"retreatThresholdAbsolute" : 10000,
+		"safeAttackRatio" : 1.1,
+		"maxArmyLossTarget" : 0.35,
+		"useFuzzy" : false
+	}
+}
